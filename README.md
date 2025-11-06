@@ -27,7 +27,7 @@ This project backtests a Simple Moving Average (SMA) Crossover strategy on `RELI
 
 The strategy successfully reduced risk, lowering volatility from 31% to 22%. It underperformed in a bull market but demonstrates a clear risk-management profile by moving to cash during downturns.
 
-![SMA Strategy P&L](Screenshot 2025-11-06 at 2.58.51 PM.jpg)
+![SMA Strategy P&L](graphsma strategy.png)
 
 ---
 
@@ -55,4 +55,4 @@ This project backtests a market-neutral statistical arbitrage strategy on a pair
 
 This strategy was a success. The **0.22 correlation** proves it is genuinely market-neutral. It generated a positive return (Sharpe of 0.70) completely independent of the market's direction, making it a true "alpha" strategy.
 
-![Pairs Trading Strategy P&L](pairs_trading_plot.png)
+![Pairs Trading Strategy P&L](pair_trading.png)
